@@ -1,6 +1,6 @@
-# Virtualization
+# Virtualization in Linux
 
-This guide provides step-by-step instructions on setting up QEMU/KVM virtualization
+This guide provides step-by-step instructions on setting up QEMU/KVM virtualization in Linux
 
 ---
 <img width="536" alt="1686326722117" src="https://github.com/user-attachments/assets/a62583c2-464b-4213-a173-42cac55124d7">
