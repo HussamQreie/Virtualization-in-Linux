@@ -9,6 +9,8 @@ This guide provides step-by-step instructions on setting up QEMU/KVM virtualizat
 - [What is QEMU/KVM?](#what-is-qemukvm)
 - [Virtualization Components in Linux](#virtualization-components-in-linux)
 - [Practical Installation Steps](#practical-installation-steps)
+- [DEMO](#demo)
+
 
 
 ---
@@ -99,3 +101,17 @@ sudo usermod -aG libvirt $USER
 reboot
 ```
 
+---
+
+###  DEMO
+##### Using virtual machine manager
+- After rebooting, search for `Virtual Machine Manager` in your application menu.
+- Open it, and it should connect to the Libvirt service without requiring root privileges.
+- If you didn't add your user to the Libvirt group, you might need to run Virt-Manager with root privileges, which is less secure and not recommended.
+
+##### Creating a virtal machine
+- On the top left of Virtual Machine Manager window, Go to `File` -> `New Virtual Machine` -> `Local install media` -> `Select iso image` -> `Customize hardware settings` -> `Finish`
+
+---
+
+## Good Luck :) 
