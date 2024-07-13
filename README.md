@@ -3,6 +3,8 @@
 This guide provides step-by-step instructions on setting up QEMU/KVM virtualization
 
 ---
+<img width="536" alt="1686326722117" src="https://github.com/user-attachments/assets/a62583c2-464b-4213-a173-42cac55124d7">
+
 
 ## Table of Contents
 - [Best Virtualization Solution in Windows and Linux](#best-virtualization-solution-in-windows-and-linux)
