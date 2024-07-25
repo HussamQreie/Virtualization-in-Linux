@@ -112,7 +112,7 @@ reboot
 - If you didn't add your user to the Libvirt group, you might need to run Virt-Manager with root privileges, which is less secure and not recommended.
 
 ##### Creating a virtal machine
-- On the top left of Virtual Machine Manager window, Go to `File` -> `New Virtual Machine` -> `Local install media` -> `Select iso image` -> `Customize hardware settings` -> `Finish`
+- On the top left of Virtual Machine Manager window, Go to `File` -> `New Virtual Machine` -> `Local install media` -> `Select iso image (make sure to locate iso to main ssd)` -> `Customize hardware settings` -> `Finish`
 
 ---
 
